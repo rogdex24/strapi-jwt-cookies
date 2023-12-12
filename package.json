@@ -1,12 +1,12 @@
 {
-  "name": "@bwyx/strapi-jwt-cookies",
-  "version": "0.0.6",
+  "name": "@rogdex24/strapi-jwt-cookies",
+  "version": "0.0.4",
   "description": "Securely use Strapi JWT on cookies",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\""
   },
-  "author": "Bayu Kurnia <hi@bayukurnia.com> (https://bayukurnia.com)",
+  "author": "Abu Talha <rogdex24@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "@strapi/plugin-users-permissions": "^4.1.12"
